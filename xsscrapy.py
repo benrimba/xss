@@ -5,7 +5,7 @@ from scrapy.cmdline import execute
 from xsscrapy.spiders.xss_spider import XSSspider
 import sys
 
-__author__ = 'Dan McInerney'
+__author__ = 'Rudi Edukasi'
 __license__ = 'BSD'
 __version__ = '1.0'
 __email__ = 'rudiedukasi@gmail.com'

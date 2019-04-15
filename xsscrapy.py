@@ -8,7 +8,7 @@ import sys
 __author__ = 'Dan McInerney'
 __license__ = 'BSD'
 __version__ = '1.0'
-__email__ = 'danhmcinerney@gmail.com'
+__email__ = 'rudiedukasi@gmail.com'
 
 def get_args():
     parser = argparse.ArgumentParser(description=__doc__,
